@@ -1,3 +1,3 @@
-curso Python de Open Bootcamp
+Curso Python de Open Bootcamp
 
 Ejercicios 1 y 2
