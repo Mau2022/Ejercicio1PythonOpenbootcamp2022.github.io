@@ -1,1 +1,3 @@
-# EjercicioPythonOpenbootcamp2022.github.io
+
+Ejercicio 1
+Ejercicio 2
